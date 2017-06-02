@@ -1,3 +1,3 @@
 # CalculatorJS
 
-Simple calculator
+Simple calculator with JavaScript
