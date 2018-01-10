@@ -2,4 +2,4 @@
 
 Simple calculator with JavaScript.
 
-![alt text](https://raw.githubusercontent.com/KostadinPlachkov/kostadinplachkov.github.io/master/img/headers/calculatorJS-wide.PNG "Screenshot")
+![Home Page](https://raw.githubusercontent.com/kplachkov/kplachkov.github.io/master/img/projects/CalculatorJS-wide.PNG "Home Page")
